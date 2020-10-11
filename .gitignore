@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore api files
+config.py
+api_keys.py
